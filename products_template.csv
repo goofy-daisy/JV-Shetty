@@ -1,0 +1,7 @@
+name,sku,category_id,description,short_description,base_price,sale_price,stock,brand,manufacturer,is_veg,is_featured,is_active,image_url
+Lays Classic,LAY001,1,Crispy potato chips with classic salted flavor,Classic salted potato chips,20.00,18.00,50,Lays,PepsiCo,1,1,1,assets/images/products/lays-classic.jpg
+Coca Cola 600ml,COKE001,1,Refreshing carbonated soft drink,Ice cold Coca Cola,40.00,,100,Coca Cola,Coca Cola Company,1,1,1,assets/images/products/coke.jpg
+Notebook A4,NOTE001,3,200 pages ruled notebook,A4 size ruled notebook,80.00,75.00,30,Classmate,ITC,1,0,1,assets/images/products/notebook.jpg
+Colgate Toothpaste,COLG001,4,Dental care toothpaste 100g,Fresh breath toothpaste,50.00,45.00,80,Colgate,Colgate-Palmolive,1,0,1,assets/images/products/colgate.jpg
+Maggi Noodles,MAG001,5,2-minute instant noodles,Quick and tasty noodles,12.00,,120,Maggi,Nestle,1,1,1,assets/images/products/maggi.jpg
+USB Cable Type-C,USB001,6,Fast charging USB Type-C cable,1 meter Type-C cable,150.00,120.00,25,,,1,0,1,assets/images/products/usb-cable.jpg
